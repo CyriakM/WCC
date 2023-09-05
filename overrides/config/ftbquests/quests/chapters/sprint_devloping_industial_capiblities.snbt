@@ -1,0 +1,258 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "sprint_devloping_industial_capiblities"
+	group: ""
+	icon: {
+		Count: 1b
+		id: "create:extendo_grip"
+		tag: {
+			Damage: 0
+		}
+	}
+	id: "4DE16B05CB450403"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "49CC34472739626C"
+			tasks: [{
+				count: 64L
+				id: "75CFEB037B04C78B"
+				item: "create:cogwheel"
+				type: "item"
+			}]
+			title: "Corporate Cog"
+			x: 1.5d
+			y: 1.0d
+		}
+		{
+			id: "21A92F79123CF944"
+			tasks: [{
+				count: 2L
+				id: "55975A79AEA90F4A"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 0.0d
+		}
+		{
+			id: "664B9BAB1AD68F30"
+			tasks: [{
+				id: "6D509A726047D0EC"
+				item: "create:mechanical_mixer"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 1.0d
+		}
+		{
+			id: "5584593AE0D766CB"
+			tasks: [{
+				id: "7CB6B2E5B30E3EAC"
+				item: "create:wrench"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -1.0d
+		}
+		{
+			id: "67BC4FF4BAEF59AD"
+			tasks: [{
+				id: "23377AE022D47BB8"
+				item: "create:goggles"
+				type: "item"
+			}]
+			x: 2.5d
+			y: -2.0d
+		}
+		{
+			id: "062FB5B6959DD3B8"
+			tasks: [{
+				count: 3L
+				id: "7E054B9A14FB7109"
+				item: "create:encased_fan"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 2.0d
+		}
+		{
+			id: "202A09904F2593EF"
+			tasks: [{
+				count: 2L
+				id: "614195120F3A8175"
+				item: "create:basin"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 3.0d
+		}
+		{
+			id: "4A09CEF384BB53DC"
+			tasks: [{
+				count: 3L
+				id: "3C3B310C24FB2659"
+				item: "create:depot"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 4.0d
+		}
+		{
+			id: "16C39B5B9DEE0B62"
+			tasks: [
+				{
+					id: "4138C518CC1164FF"
+					item: "minecraft:campfire"
+					type: "item"
+				}
+				{
+					id: "2831175C45CFA41C"
+					item: "minecraft:water_bucket"
+					type: "item"
+				}
+				{
+					id: "59DA69458602C2C3"
+					item: "minecraft:lava_bucket"
+					type: "item"
+				}
+			]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			id: "6094459505A6DBEC"
+			tasks: [{
+				id: "789714C0523747BE"
+				item: "create:millstone"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 5.0d
+		}
+		{
+			id: "48B7AF27B3C3664A"
+			tasks: [{
+				id: "08A4AB4FBAA818C9"
+				item: "create:mechanical_crafter"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 0.5d
+		}
+		{
+			id: "79FA888AF9D57D36"
+			tasks: [{
+				id: "4606B23CCE8A15AA"
+				item: "create:crushing_wheel"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 0.5d
+		}
+		{
+			id: "290068530B01A941"
+			tasks: [{
+				id: "3D4BA021F816B530"
+				item: "create:rope_pulley"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 3.0d
+		}
+		{
+			id: "7EB627F2088A42C4"
+			tasks: [{
+				id: "7F1972602F0DF2BD"
+				item: "create:large_cogwheel"
+				type: "item"
+			}]
+			title: "Large Corporate Cog"
+			x: 1.5d
+			y: 2.0d
+		}
+		{
+			id: "07CD29C4768DF9E0"
+			tasks: [{
+				id: "6136988B4ECAAD16"
+				item: "create:mechanical_arm"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 3.0d
+		}
+		{
+			id: "392D35004673CA3F"
+			tasks: [{
+				id: "7E3F2BEC4F95DE9A"
+				item: "create:mechanical_roller"
+				type: "item"
+			}]
+			x: 5.5d
+			y: 4.5d
+		}
+		{
+			id: "245050D1AB140B13"
+			tasks: [{
+				id: "0EEE70AD591ACC0D"
+				item: "create:fluid_pipe"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 2.5d
+		}
+		{
+			id: "4C13C504F0E11174"
+			tasks: [{
+				id: "7AAF463C509842B2"
+				item: "create:fluid_tank"
+				type: "item"
+			}]
+			x: -2.0d
+			y: 4.0d
+		}
+		{
+			id: "40329B521958E373"
+			tasks: [{
+				id: "6006A32DBF04AE4E"
+				item: "create:item_drain"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 4.0d
+		}
+		{
+			id: "4B17429847CAA9F7"
+			tasks: [{
+				id: "74587E70DDD16402"
+				item: "create:mechanical_pump"
+				type: "item"
+			}]
+			x: -3.5d
+			y: 2.5d
+		}
+		{
+			id: "17B15D070B8A8D2E"
+			tasks: [{
+				id: "520972BEF574820C"
+				item: "create:elevator_pulley"
+				type: "item"
+			}]
+			x: 7.0d
+			y: 4.5d
+		}
+		{
+			id: "3785D224E5B9F9AB"
+			tasks: [{
+				id: "6751FB7D104F235F"
+				item: "create:blaze_burner"
+				type: "item"
+			}]
+			x: 2.5d
+			y: 6.0d
+		}
+	]
+	title: "Sprint: Developing Industrial Capabilities"
+}

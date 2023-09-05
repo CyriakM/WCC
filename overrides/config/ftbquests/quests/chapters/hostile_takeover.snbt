@@ -1,0 +1,170 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "hostile_takeover"
+	group: ""
+	icon: "architects_palette:lit_osseous_skull"
+	id: "733B247B41185C84"
+	order_index: 8
+	quest_links: [ ]
+	quests: [
+		{
+			can_repeat: true
+			icon: {
+				Count: 1b
+				id: "trophymanager:trophy"
+				tag: {
+					Name: "WCC Employee of the Month"
+					TrophyItem: {
+						Count: 1.0d
+						id: "minecraft:crafting_table"
+					}
+					TrophyType: "item"
+				}
+			}
+			id: "75E4F8445ABA654F"
+			rewards: [{
+				id: "47D962F9813E236C"
+				item: {
+					Count: 1b
+					id: "trophymanager:trophy"
+					tag: {
+						Name: "WCC Employee of the Month"
+						TrophyItem: {
+							Count: 1.0d
+							id: "minecraft:crafting_table"
+						}
+						TrophyType: "item"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				id: "41F81C7C9E312B3C"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
+			title: "Employee of the Month"
+			x: -1.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"You are my favorite corporate hoe <3"
+				""
+				"wait dont call hr i "
+			]
+			icon: {
+				Count: 1b
+				id: "trophymanager:trophy"
+				tag: {
+					Name: "WCC Golden Hoe of the Year"
+					OffsetY: 0.8d
+					Scale: 1.33d
+					TrophyItem: {
+						Count: 1.0d
+						id: "minecraft:golden_hoe"
+						tag: {
+							Damage: 0
+							Enchantments: [{
+								id: "minecraft:mending"
+							}]
+						}
+					}
+					TrophyType: "item"
+				}
+			}
+			id: "7D2540E9119ED169"
+			rewards: [{
+				id: "6AEFCAAB0C154EDF"
+				item: {
+					Count: 1b
+					id: "trophymanager:trophy"
+					tag: {
+						Name: "WCC Golden Hoe of the Year"
+						OffsetY: 0.8d
+						Scale: 1.33d
+						TrophyItem: {
+							Count: 1.0d
+							id: "minecraft:golden_hoe"
+							tag: {
+								Damage: 0
+								Enchantments: [{
+									id: "minecraft:mending"
+								}]
+							}
+						}
+						TrophyType: "item"
+					}
+				}
+				type: "item"
+			}]
+			tasks: [{
+				count: 12L
+				id: "7F68AE6EE317AE2C"
+				item: {
+					Count: 1b
+					id: "trophymanager:trophy"
+					tag: {
+						Name: "WCC Employee of the Month"
+						TrophyItem: {
+							Count: 1.0d
+							id: "minecraft:crafting_table"
+						}
+						TrophyType: "item"
+					}
+				}
+				match_nbt: true
+				type: "item"
+			}]
+			title: "Employee of the Year"
+			x: 0.5d
+			y: -0.5d
+		}
+		{
+			description: [
+				"Dear [Employee's Name],"
+				""
+				"I am delighted to extend my heartfelt congratulations to you for earning the prestigious title of \"Employee of the Month\" at White Collar Crafting. Your outstanding dedication, hard work, and exceptional contributions have not only set you apart but have also served as an inspiration to your colleagues."
+				""
+				"Once again, congratulations on this well-deserved recognition. Your continued efforts and positive attitude exemplify the White Collar Crafting spirit, and we look forward to your continued success in the days to come."
+				""
+				"Thank you for your dedication and hard work."
+				""
+				"Best Regards,"
+				""
+				"Maya Buttreeks"
+				"HR Bonus Coordinator"
+				"White Collar Crafting"
+			]
+			id: "4F42514EDB1EF2D6"
+			subtitle: "From:MayaButtreeks@WCC.comgov"
+			tasks: [{
+				id: "0F607EC33C33BA5C"
+				title: "Congratulations on Being Named Employee of the Month!"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 1.0d
+		}
+		{
+			id: "588E51A94FD63079"
+			tasks: [{
+				id: "198F7F4DB5BA6747"
+				title: "What is this?"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: 2.5d
+		}
+	]
+	title: "Employee of the Month"
+}

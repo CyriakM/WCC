@@ -23,8 +23,8 @@
 				type: "item"
 			}]
 			title: "Corporate Cog"
-			x: 1.5d
-			y: 1.0d
+			x: -2.5d
+			y: -2.0d
 		}
 		{
 			id: "21A92F79123CF944"
@@ -34,8 +34,8 @@
 				item: "create:mechanical_press"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 0.0d
+			x: 4.5d
+			y: -2.5d
 		}
 		{
 			id: "664B9BAB1AD68F30"
@@ -44,8 +44,8 @@
 				item: "create:mechanical_mixer"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 1.0d
+			x: 4.0d
+			y: -1.5d
 		}
 		{
 			id: "5584593AE0D766CB"
@@ -54,8 +54,8 @@
 				item: "create:wrench"
 				type: "item"
 			}]
-			x: 2.5d
-			y: -1.0d
+			x: -1.5d
+			y: 0.0d
 		}
 		{
 			id: "67BC4FF4BAEF59AD"
@@ -65,7 +65,7 @@
 				type: "item"
 			}]
 			x: 2.5d
-			y: -2.0d
+			y: -2.5d
 		}
 		{
 			id: "062FB5B6959DD3B8"
@@ -75,8 +75,8 @@
 				item: "create:encased_fan"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 2.0d
+			x: 3.0d
+			y: -1.5d
 		}
 		{
 			id: "202A09904F2593EF"
@@ -86,8 +86,8 @@
 				item: "create:basin"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 3.0d
+			x: 3.0d
+			y: 0.5d
 		}
 		{
 			id: "4A09CEF384BB53DC"
@@ -97,8 +97,8 @@
 				item: "create:depot"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 4.0d
+			x: 4.5d
+			y: -0.5d
 		}
 		{
 			id: "16C39B5B9DEE0B62"
@@ -119,8 +119,8 @@
 					type: "item"
 				}
 			]
-			x: 4.0d
-			y: 2.0d
+			x: 2.5d
+			y: -0.5d
 		}
 		{
 			id: "6094459505A6DBEC"
@@ -129,8 +129,8 @@
 				item: "create:millstone"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 5.0d
+			x: 4.0d
+			y: 0.5d
 		}
 		{
 			id: "48B7AF27B3C3664A"
@@ -139,8 +139,8 @@
 				item: "create:mechanical_crafter"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 0.5d
+			x: 8.5d
+			y: -0.5d
 		}
 		{
 			id: "79FA888AF9D57D36"
@@ -159,8 +159,8 @@
 				item: "create:rope_pulley"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 3.0d
+			x: 8.5d
+			y: 0.5d
 		}
 		{
 			id: "7EB627F2088A42C4"
@@ -170,8 +170,8 @@
 				type: "item"
 			}]
 			title: "Large Corporate Cog"
-			x: 1.5d
-			y: 2.0d
+			x: -2.0d
+			y: -1.0d
 		}
 		{
 			id: "07CD29C4768DF9E0"
@@ -181,7 +181,7 @@
 				type: "item"
 			}]
 			x: 7.0d
-			y: 3.0d
+			y: -0.5d
 		}
 		{
 			id: "392D35004673CA3F"
@@ -190,8 +190,8 @@
 				item: "create:mechanical_roller"
 				type: "item"
 			}]
-			x: 5.5d
-			y: 4.5d
+			x: 7.0d
+			y: 1.5d
 		}
 		{
 			id: "245050D1AB140B13"
@@ -240,8 +240,8 @@
 				item: "create:elevator_pulley"
 				type: "item"
 			}]
-			x: 7.0d
-			y: 4.5d
+			x: 8.5d
+			y: 1.5d
 		}
 		{
 			id: "3785D224E5B9F9AB"
@@ -250,8 +250,123 @@
 				item: "create:blaze_burner"
 				type: "item"
 			}]
-			x: 2.5d
-			y: 6.0d
+			x: 3.5d
+			y: 1.5d
+		}
+		{
+			description: [
+				"Hello,"
+				"Allow me to introduce myself. My name is Berlin, I have been with the company for about 4 years now. "
+				"Welcome to White Collar Crafters! I heard you recently came on the team and completed your onboarding. We really want to build up our Create knowledge across our engineering team, and I have been taking time to train new employees. I have about 6 years of create experience at this point, and became the go-to person anytime someone had a problem. Anyway, I will send some basic pointers so keep your eyes peeled for those. If you have any questions, reach out! "
+				""
+				"All the best,"
+				"Berlin"
+				"==============================="
+				"to:BerlinWall@WCC.comgov"
+				"RE:"
+				""
+				"Thanks for reaching out! I appreciate it. I will let you know once I have some material ready for my first project."
+			]
+			id: "08BA59CD3EC47CC8"
+			subtitle: "from:BerlinWall@WCC.comgov"
+			tasks: [{
+				id: "6E7DF9BC335C989D"
+				title: "create engineer SME"
+				type: "checkmark"
+			}]
+			x: -4.5d
+			y: -3.0d
+		}
+		{
+			id: "2063D1169BCADD61"
+			tasks: [{
+				id: "777F578312A2784D"
+				title: "the fun stuff"
+				type: "checkmark"
+			}]
+			x: 7.5d
+			y: -2.0d
+		}
+		{
+			id: "53390258A7587154"
+			tasks: [{
+				id: "60CD2F711704D57E"
+				title: "first things to make"
+				type: "checkmark"
+			}]
+			x: -1.5d
+			y: -3.0d
+		}
+		{
+			id: "18C0F16F24580136"
+			tasks: [{
+				id: "7BB17AC744902C50"
+				title: "the basics"
+				type: "checkmark"
+			}]
+			x: 3.5d
+			y: -3.0d
+		}
+		{
+			id: "57A1CEE41B096B55"
+			tasks: [{
+				id: "2E1549C2569808ED"
+				item: "create:mechanical_press"
+				type: "item"
+			}]
+			x: -0.5d
+			y: -2.0d
+		}
+		{
+			id: "668B175D3BCE0E04"
+			tasks: [{
+				id: "6AE89BD94704F679"
+				item: "create:water_wheel"
+				type: "item"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			description: [
+				"hey, how do you have 6 years of create experience? Didnt that mod only come out 4 years ago?"
+				""
+				"<&9Berlin&r>: ahh yea. that is true. i joined here around the same time, and really liked it. no one else really knew anything about it and i had a knack from my mech eng background. anyway i got pidgeonholed pretty hard and ended up having to work 60 hour weeks just to keep up with all the demands of me."
+				"<&9Berlin&r>: so yeah, six years of experience in 4 years :)"
+			]
+			id: "0A81E963B37C9627"
+			tasks: [{
+				id: "1A8B96DB32859398"
+				title: "Chat Log: 6 years?"
+				type: "checkmark"
+			}]
+			x: 1.0d
+			y: -4.0d
+		}
+		{
+			description: [
+				"60 hour weeks for four years sounds really tough. i'm surprised you managed."
+				""
+				"<&9Berlin&r>: it was nice at first, being the girl for create. but by year 2, it was beginning to become impossible to juggle the project management stuff i would always get roped into because of my knowledge, and the actual technical tasks. i was kind of dreading going to work, and my old manager did not care. as long as i kept pumping out results, that was all that mattered. luckly they left the company and i got a new one, he pushed really hard for me to train other people on create so it doesnt all fall on my shoulders."
+			]
+			id: "29372E004906ED1E"
+			tasks: [{
+				id: "5182A99E4E4E6781"
+				title: "Chat Log: burnout"
+				type: "checkmark"
+			}]
+			x: 6.0d
+			y: -4.0d
+		}
+		{
+			id: "04EA6FCB980A6774"
+			tasks: [{
+				id: "0F2F0D82522115B4"
+				title: "contraptions"
+				type: "checkmark"
+			}]
+			x: 11.0d
+			y: -2.0d
 		}
 	]
 	title: "Sprint: Developing Industrial Capabilities"

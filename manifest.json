@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "White Collar Crafters",
-  "version": "0.2",
+  "version": ".3",
   "author": "",
   "files": [
     {
@@ -212,6 +212,11 @@
     {
       "projectID": 438447,
       "fileID": 4598311,
+      "required": true
+    },
+    {
+      "projectID": 390717,
+      "fileID": 4421815,
       "required": true
     },
     {

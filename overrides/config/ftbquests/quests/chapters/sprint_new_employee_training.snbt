@@ -268,6 +268,30 @@
 			x: 1.0d
 			y: 0.5d
 		}
+		{
+			description: [
+				"In order to better allow our employees to meet our company goals, we have enabled quarters on your minecraft world!"
+				"This exciting new feature allows you to make sure you are on track to supporting our business needs for the year. "
+				"The quarters are distinguished as follows:"
+				"&aQuarter One: Normal leaves and grass.&r"
+				"&2Quarter Two: Bright green leaves and grass.&r"
+				"&6Quarter Three: Leaves turn orange, fall from the trees frequently. &r"
+				"&fQuarter Four: Snow falls from the sky, water freezes. Leaves and grass are gray.&r"
+			]
+			id: "099ADDF700D95DCA"
+			rewards: [{
+				id: "5E22D23F7C299BF9"
+				item: "sereneseasons:calendar"
+				type: "item"
+			}]
+			tasks: [{
+				id: "3FB210EDB6388AEF"
+				title: "New Quarterly Initiative"
+				type: "checkmark"
+			}]
+			x: -2.0d
+			y: -1.5d
+		}
 	]
 	title: "Sprint: New Employee Training"
 }

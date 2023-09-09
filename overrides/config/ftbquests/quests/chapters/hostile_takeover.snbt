@@ -5,7 +5,7 @@
 	group: ""
 	hide_quest_details_until_startable: true
 	hide_quest_until_deps_visible: true
-	icon: "architects_palette:lit_osseous_skull"
+	icon: "minecraft:enchanted_golden_apple"
 	id: "733B247B41185C84"
 	order_index: 8
 	quest_links: [ ]
@@ -231,8 +231,11 @@
 				"You liken yourself to a side character in a television show. Everyone knows you, but no one shows up for you. You get invited to the company sponsored potlucks, but never the beach trips or halloween parties you overhear people talk about in the breakroom. How come other people can connect, but you can’t? "
 				""
 				"That is not to mention your friends. It has been too long to even consider reaching out at this point. "
+				""
+				"Maybe you should invite Berlin and <y> for dinner after work."
 			]
 			id: "01426223C1B5BFFE"
+			subtitle: "The shinest cog"
 			tasks: [{
 				id: "17EA8FD1C0C5A36D"
 				title: "hm"

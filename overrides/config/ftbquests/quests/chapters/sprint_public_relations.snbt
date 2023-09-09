@@ -120,6 +120,7 @@
 		}
 		{
 			can_repeat: true
+			icon: "architects_palette:ender_pearl_block"
 			id: "2A4C3FF19EEC683F"
 			tasks: [{
 				entity: "minecraft:enderman"
@@ -132,6 +133,7 @@
 		}
 		{
 			can_repeat: true
+			icon: "minecraft:spider_eye"
 			id: "7FD82DFDFC97A7D9"
 			tasks: [{
 				entity: "minecraft:spider"
@@ -144,6 +146,7 @@
 		}
 		{
 			can_repeat: true
+			icon: "minecraft:skeleton_skull"
 			id: "0D8EEEFB98F994D5"
 			tasks: [{
 				entity: "minecraft:skeleton"
@@ -156,6 +159,7 @@
 		}
 		{
 			can_repeat: true
+			icon: "minecraft:blaze_rod"
 			id: "33A13E3273217387"
 			tasks: [{
 				entity: "minecraft:blaze"

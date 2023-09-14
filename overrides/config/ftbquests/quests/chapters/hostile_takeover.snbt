@@ -173,7 +173,7 @@
 			description: [
 				"A flurry of congratulatory emails flood your inbox. Employee of the month! You worked hard for this. It should feel good. Why doesn’t it feel good? "
 				""
-				"Of course you can not talk to anyone about this, you would sound too ungrateful. Not that you have anyone to talk to. Berlin and <y> are nice, but they are just co-workers. You could not see yourself opening up to them. "
+				"Of course you can not talk to anyone about this, you would sound too ungrateful. Not that you have anyone to talk to. Berlin and Levi are nice, but they are just co-workers. You could not see yourself opening up to them. "
 				""
 				"All your friends from college have been scattered across the country, busy with their own lives. You used to talk often, and even visited them a few times on a flight paid for with the fruits of your labor. But the contacts and reach outs have become few and far between these days."
 			]
@@ -231,8 +231,6 @@
 				"You liken yourself to a side character in a television show. Everyone knows you, but no one shows up for you. You get invited to the company sponsored potlucks, but never the beach trips or halloween parties you overhear people talk about in the breakroom. How come other people can connect, but you can’t? "
 				""
 				"That is not to mention your friends. It has been too long to even consider reaching out at this point. "
-				""
-				"Maybe you should invite Berlin and <y> for dinner after work."
 			]
 			id: "01426223C1B5BFFE"
 			subtitle: "The shinest cog"
@@ -264,6 +262,28 @@
 			}]
 			x: -1.5d
 			y: -0.5d
+		}
+		{
+			description: ["I should invite someone to do something. I always hear about how we need to hang out with people, its like written in our DNA or something. Ok, maybe that article was pop science, but it does still feel good to hang out."]
+			id: "10F21F022EC3E77A"
+			tasks: [{
+				id: "636861C6224DCCBE"
+				title: "Sips"
+				type: "checkmark"
+			}]
+			title: "Something new"
+			x: 0.5d
+			y: 3.0d
+		}
+		{
+			id: "3D1AB3BB7CA1DC40"
+			tasks: [{
+				id: "33F2F9CA631188DD"
+				title: "Sips"
+				type: "checkmark"
+			}]
+			x: 0.5d
+			y: 5.0d
 		}
 	]
 	title: "Employee of the Month"

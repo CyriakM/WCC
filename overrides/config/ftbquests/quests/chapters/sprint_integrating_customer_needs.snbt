@@ -10,6 +10,7 @@
 	quests: [
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["am i doing this right? my kid wont fall asleep unless i play her some music. get me some discs please."]
 			id: "0710A4F27E536C6A"
 			subtitle: "As a user, i wanna get my kid to sleep"
@@ -33,6 +34,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["I need TNT for something. Please provide ASAP."]
 			id: "06D8C3EBEE2F7ABA"
 			subtitle: "As a user, I need TNT to accomplish my goals"
@@ -49,6 +51,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["Its my kids birthday and he wants the cake from minecraft. I figured no better people to call right? "]
 			id: "62CA87969EAA40A5"
 			tasks: [{
@@ -64,6 +67,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["complete story 3/25"]
 			id: "6662CB122756E375"
 			subtitle: "As a User, I need tea to increase my building potental"
@@ -80,7 +84,11 @@
 		}
 		{
 			can_repeat: true
-			description: ["hi i need these for making clocks. my last guy who made these things shop blew up..."]
+			dependencies: ["06D8C3EBEE2F7ABA"]
+			description: [
+				"hi i need these for making clocks. my last guy who made these things shop blew up..."
+				"you wouldnt happen to know anything about that?"
+			]
 			id: "30464B214C952002"
 			tasks: [{
 				consume_items: true
@@ -94,6 +102,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["brooo i am soo hungry please i NEED this cinnabun "]
 			id: "477961D9CABF8857"
 			tasks: [{
@@ -109,6 +118,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			id: "5D4EA69868D20BE6"
 			tasks: [{
 				consume_items: true
@@ -122,6 +132,7 @@
 		}
 		{
 			can_repeat: true
+			dependencies: ["726FFBC41DD6CEBC"]
 			description: ["My upstairs neighbor will not SHUT UP!!!!! lets see how he likes it when I push his floor up 1 meter."]
 			id: "14A32AC6A40D4D66"
 			tasks: [{

@@ -84,6 +84,7 @@
 			y: -2.5d
 		}
 		{
+			description: ["Ahh, classic. These are never going to go away. Once you heard someone traded a whole stack for a single cup of coffee. My kingdom for a horse!"]
 			id: "7B85068F7FBA2DA2"
 			tasks: [{
 				id: "1A1B7F86B6773E18"
@@ -94,6 +95,7 @@
 			y: -1.0d
 		}
 		{
+			description: ["I still cant really belive they added something better than diamond. Black is the new blue I suppose."]
 			id: "4E5FFBCDB3B98275"
 			tasks: [{
 				id: "071823632421457E"
@@ -158,26 +160,6 @@
 			y: -1.0d
 		}
 		{
-			id: "6192E2B5DE276267"
-			tasks: [{
-				id: "0B5A5C699FD8D66C"
-				item: "minecraft:wheat"
-				type: "item"
-			}]
-			x: -1.0d
-			y: -3.5d
-		}
-		{
-			id: "627FA139A531F853"
-			tasks: [{
-				id: "39540C48FB6D6036"
-				item: "minecraft:carrot"
-				type: "item"
-			}]
-			x: -1.0d
-			y: -4.5d
-		}
-		{
 			id: "4FEE735E35D92BC1"
 			tasks: [{
 				id: "0BEA7CB042D99359"
@@ -188,6 +170,10 @@
 			y: 0.5d
 		}
 		{
+			description: [
+				"<&9Berlin&r>: Hey, we haven't met yet!"
+				"<&9Berlin&r>: But we will soon!"
+			]
 			id: "1BAAD156D2A2BC08"
 			tasks: [{
 				id: "27C3961C97D67C73"

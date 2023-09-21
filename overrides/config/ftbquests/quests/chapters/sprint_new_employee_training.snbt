@@ -315,7 +315,7 @@
 				item: "minecraft:torch"
 				type: "item"
 			}]
-			title: "New behavior noted "
+			title: "New Lighting Behavior Noted "
 			x: 0.0d
 			y: 1.5d
 		}

@@ -116,7 +116,7 @@
 			subtitle: "You are my favorite corporate hoe <3"
 			tasks: [{
 				consume_items: true
-				count: 4L
+				count: 12L
 				id: "7F68AE6EE317AE2C"
 				item: {
 					Count: 1b
@@ -264,7 +264,12 @@
 			y: -0.5d
 		}
 		{
-			description: ["I should invite someone to do something. I always hear about how we need to hang out with people, its like written in our DNA or something. Ok, maybe that article was pop science, but it does still feel good to hang out."]
+			dependencies: ["01426223C1B5BFFE"]
+			description: [
+				"I should invite someone to do something. I always hear about how we need to hang out with people, its like written in our DNA or something. Ok, maybe that article was pop science, but it does still feel good to hang out."
+				""
+				"I heard about a happy hour after work, I will invite Berlin and Levi"
+			]
 			id: "10F21F022EC3E77A"
 			tasks: [{
 				id: "636861C6224DCCBE"
@@ -276,7 +281,27 @@
 			y: 3.0d
 		}
 		{
+			dependencies: ["10F21F022EC3E77A"]
+			description: [
+				"<&eYou&r>: hey"
+				"<&eYou&r>: are you guys down for sips?"
+				"<&9Berlin&r>: the happy hour? I have never been"
+				"<&9Berlin&r>: sure!"
+				"<&dLevi&r>: yooo i love sips"
+				"<&dLevi&r>: first ones on me!"
+			]
 			id: "3D1AB3BB7CA1DC40"
+			rewards: [{
+				id: "3313C6DA01B9E339"
+				item: {
+					Count: 1b
+					id: "minecraft:potion"
+					tag: {
+						Potion: "minecraft:strong_healing"
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "33F2F9CA631188DD"
 				title: "Sips"

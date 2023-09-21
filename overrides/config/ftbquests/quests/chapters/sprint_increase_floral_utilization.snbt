@@ -191,7 +191,7 @@
 			]
 			id: "6255C402D9DFF69B"
 			rewards: [{
-				count: 4
+				count: 8
 				id: "0164EDF46F8339EE"
 				item: {
 					Count: 1b
@@ -221,6 +221,20 @@
 				"<&dLevi&r>: The hopper is connected with redstone to the plate to turn it off."
 			]
 			id: "51F00AF80652C4CF"
+			rewards: [{
+				count: 10
+				id: "63E6907337F2C764"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "75851EBAD5A91588"
 				item: "botania:endoflame"
@@ -237,6 +251,20 @@
 				"<&dLevi&r>: But before you know it, they will be off to college, becoming a fine livingwood wand."
 			]
 			id: "65DE9D36D8D3C6F6"
+			rewards: [{
+				count: 16
+				id: "4612ABA26EC7DF90"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					count: 8L
@@ -275,6 +303,20 @@
 		{
 			dependencies: ["31F01D72BD2B6CB2"]
 			id: "6D979AB58A73693A"
+			rewards: [{
+				count: 10
+				id: "605FE6ADD17B0A08"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6EA99901D419F67F"
 				item: "botania:manasteel_ingot"
@@ -286,6 +328,20 @@
 		{
 			dependencies: ["6D979AB58A73693A"]
 			id: "5E567246B8D6496E"
+			rewards: [{
+				count: 20
+				id: "391373FA23E41D93"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "0519009D32E2E37C"
@@ -342,6 +398,20 @@
 				"<&dLevi&r>: It is picky :)"
 			]
 			id: "093E4C5241A56AA7"
+			rewards: [{
+				count: 20
+				id: "6292C44B05A2141A"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "115316012F90F36E"
 				item: "botania:terra_plate"
@@ -358,6 +428,20 @@
 				"<&dLevi&r>: But your first ingot should go towards an elven portal"
 			]
 			id: "3969369E9A7296D8"
+			rewards: [{
+				count: 30
+				id: "03A2227A9C87965F"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "77EAA28ECD1F65C2"
 				item: "botania:terrasteel_ingot"
@@ -369,6 +453,20 @@
 		{
 			dependencies: ["65DE9D36D8D3C6F6"]
 			id: "31F01D72BD2B6CB2"
+			rewards: [{
+				count: 20
+				id: "05522CA5F5839C34"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "45DF2A41A2B4953F"
 				item: "botania:mana_pool"
@@ -384,6 +482,20 @@
 				"<&dLevi&r>: Grab it if you want. They are nice to have"
 			]
 			id: "22A7FF15F34056DC"
+			rewards: [{
+				count: 10
+				id: "431C31D79004F370"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "565B15A25F11CDD4"
 				item: "botania:brewery"
@@ -400,6 +512,20 @@
 				"<&dLevi&r>: Even so, you can buy some materals for making more in the employee store."
 			]
 			id: "74E5212E325E5D66"
+			rewards: [{
+				count: 10
+				id: "6952078B19728E2A"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4862DE4496ED9F26"
 				item: "botania:runic_altar"
@@ -416,6 +542,20 @@
 				"<&dLevi&r>: I have had incidents with these unloading and blowing up my chests"
 			]
 			id: "41DAC3872AB38DC2"
+			rewards: [{
+				count: 20
+				id: "7DE6FD674AB4425D"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "345CB8EBA48CFCB5"
 				item: "botania:entropinnyum"
@@ -431,6 +571,20 @@
 				"<&eYou&r>: woooooow i was totally gonna eat that crusty cake slice"
 			]
 			id: "76E2F95B5BDF8BA5"
+			rewards: [{
+				count: 30
+				id: "2FCF39CE79D2B809"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "4475E3AA981634DD"
 				item: "botania:kekimurus"
@@ -443,6 +597,20 @@
 			dependencies: ["76AD12C05599B9DD"]
 			description: ["<&dLevi&r>: Its based on the game of life! How cool!"]
 			id: "2F32ACBB095DEEE6"
+			rewards: [{
+				count: 30
+				id: "78B76D83BF76EEE1"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "5817873F71C9D0AE"
 				item: "botania:dandelifeon"
@@ -459,6 +627,20 @@
 				"<&dLevi&r>: Dont thow anything in the portal you like, they will keep it if it is not a valid trade."
 			]
 			id: "75FC5E3F9787F174"
+			rewards: [{
+				count: 30
+				id: "3554BF6703FC31A7"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [
 				{
 					id: "5F93E7DC1835305A"
@@ -477,6 +659,20 @@
 		{
 			dependencies: ["76AD12C05599B9DD"]
 			id: "3A2C0D338C278C2F"
+			rewards: [{
+				count: 20
+				id: "6C9E2F15B6EB5528"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "6B7CF5C1E881D3CC"
 				item: "botania:munchdew"
@@ -491,6 +687,20 @@
 				"<&dLevi&r>: It goes away after like 30 seconds, so dont use it for anything long term.&o"
 			]
 			id: "7BBE2D8A17FE3CF3"
+			rewards: [{
+				count: 30
+				id: "52F63729D6499D3A"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "768B06512CE0586D"
 				item: "botania:rainbow_rod"
@@ -551,6 +761,20 @@
 				"<&dLevi&r>: Realize you hate birch wood? Have it target dark oak and replace your whole house in a snap!"
 			]
 			id: "6DA47CFAFBFED5A7"
+			rewards: [{
+				count: 30
+				id: "2B7613814BC161C0"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3D525441887C9944"
 				item: "botania:exchange_rod"
@@ -565,6 +789,20 @@
 				"<&dLevi&r>: This lets me walk fast, it helps."
 			]
 			id: "2373987D051C8352"
+			rewards: [{
+				count: 20
+				id: "0F18E13A45FA9BEB"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "0C2B6F1A5F125282"
 				item: "botania:travel_belt"
@@ -579,6 +817,20 @@
 				"<&dLevi&r>: And stops the rain. I kinda like the rain though, so its a trade off for me."
 			]
 			id: "4E6073B139DA3757"
+			rewards: [{
+				count: 20
+				id: "663FAA6FEBEFCA46"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "3BF2596BDCB206AB"
 				item: "botania:teru_teru_bozu"

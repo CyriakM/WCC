@@ -315,6 +315,7 @@
 				}
 			]
 			tasks: [{
+				consume_items: true
 				count: 3L
 				id: "11EC08F0BC9AB57D"
 				item: {

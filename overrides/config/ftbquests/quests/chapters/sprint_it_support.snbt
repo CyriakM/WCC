@@ -3,6 +3,7 @@
 	default_quest_shape: "pentagon"
 	filename: "sprint_it_support"
 	group: ""
+	icon: "refinedstorage:pink_creative_controller"
 	id: "3F4E76394B8A8CE0"
 	order_index: 5
 	quest_links: [ ]
@@ -17,6 +18,20 @@
 				"<&cIT guy&r>: not kidding"
 			]
 			id: "4C8471A468EA9990"
+			rewards: [{
+				count: 10
+				id: "780A74B88E8CB8DA"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "762C8509C876389C"
 				item: "refinedstorage:controller"
@@ -26,8 +41,27 @@
 			y: 0.0d
 		}
 		{
-			description: ["<&cIT guy&r>: holds all your discs for dumping the huge amounts of random stuff you come across"]
+			description: [
+				"<&cIT guy&r>: holds all your discs for dumping the huge amounts of random stuff you come across"
+				"<&eYou&r>: this pack actually isnt that bad with random items"
+				"<&eYou&r>: biomes o plenty was the main offender"
+				"<&cIT guy&r>: you are saying you dont like 40 different types of flowers and mushrooms filling your inventory?"
+			]
 			id: "4A75C35A24744A9D"
+			rewards: [{
+				count: 10
+				id: "5B7675427D1DDBBA"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "54ED637B8BF02F6E"
 				item: "refinedstorage:disk_drive"
@@ -37,7 +71,22 @@
 			y: 1.0d
 		}
 		{
+			description: ["<&cIT guy&r>: storage modules, pretty simple"]
 			id: "4AF31452D8BFE8AB"
+			rewards: [{
+				count: 10
+				id: "674CDFB487F8FBE6"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "40B200052C227B6C"
 				item: "refinedstorage:1k_storage_part"
@@ -48,6 +97,20 @@
 		}
 		{
 			id: "343213E4D6F34B94"
+			rewards: [{
+				count: 20
+				id: "7396E962604BE65B"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "552ADE9CDE833FFC"
 				item: "refinedstorage:crafting_grid"
@@ -58,11 +121,12 @@
 		}
 		{
 			description: [
-				"<&cIT guy&r>: oh yeah you get some of these"
+				"<&cIT guy&r>: this is the biggest they get"
 				"<&cIT guy&r>: good boy / girl / etc"
 			]
 			id: "549960D90E2E4518"
 			rewards: [{
+				count: 60
 				id: "5241D48A7256E40C"
 				item: {
 					Count: 1b
@@ -85,6 +149,20 @@
 		}
 		{
 			id: "401ACA0D7AEF452C"
+			rewards: [{
+				count: 10
+				id: "076B85B0B3639187"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "276C2B09C9C6CD01"
 				item: "refinedstorage:grid"
@@ -94,7 +172,26 @@
 			y: -1.0d
 		}
 		{
+			description: [
+				"<&eYou&r>: where does the extra storage come from when you make a bigger one?"
+				"<&cIT guy&r>: the existing cells associate with each other becoming greater than the sum of their parts"
+				"<&eYou&r>: that sounds complicated"
+			]
 			id: "3D929BBD01995BD7"
+			rewards: [{
+				count: 20
+				id: "01C767D228B55570"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "476D565131B0D096"
 				item: "refinedstorage:4k_storage_part"
@@ -104,7 +201,22 @@
 			y: 3.0d
 		}
 		{
+			description: ["<&cIT guy&r>: ok i made that last fact about the cell size it is really witchcraft"]
 			id: "43BF078097CB7765"
+			rewards: [{
+				count: 20
+				id: "55C8E35025C1F63D"
+				item: {
+					Count: 1b
+					id: "hexerei:crow_spawn_egg"
+					tag: {
+						display: {
+							Name: "{\"text\":\"Story Point\"}"
+						}
+					}
+				}
+				type: "item"
+			}]
 			tasks: [{
 				id: "109B9E7DBF7E896B"
 				item: "refinedstorage:16k_storage_part"
@@ -119,7 +231,7 @@
 				"<&cIT guy&r>: by everybody i mean me."
 				"<&cIT guy&r>: im not really a guy"
 				"<&cIT guy&r>: our secret"
-				"<&eYou&r>: got it, shhhh"
+				"<&eYou&r>: got it, shhhh!"
 			]
 			id: "69327590B3A45365"
 			rewards: [{
@@ -212,7 +324,7 @@
 			description: [
 				"<&cIT guy&r>: these are nice for making potion candles"
 				"<&eYou&r>: Levi told me to use botania for brewing"
-				"<&cIT guy&r>: boooooo! can you place your botania potions everwhere and set a sick mood?"
+				"<&cIT guy&r>: boooooo! can you place your botania potions everwhere to set a mood?"
 				"<&eYou&r>: no"
 				"<&cIT guy&r>: exactly! 1 point for IT guy."
 			]
